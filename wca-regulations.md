@@ -357,6 +357,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1b1) For events with inspection, a Stackmat must be used in addition to the stopwatch. For events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfil the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
+        - A1c1) A competitor may not use a method that includes memorizing in inspection and executing during the solve. This includes most methods used in solving for blind events.
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
